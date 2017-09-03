@@ -1,2 +1,13 @@
-# DHT_Chord
-I implement a P2P scalable, robust distributed systems using peer-to-peer ideas. This project is based on The Chord project from MIT. Here is the MIT project official address: https://github.com/sit/dht/wiki.
+# Small projects and tools in C++
+  
+* Chord, Projects in 
+  Project in CS512: Distributed System
+ 
+* ECC Code
+  Project in Algorithm in Real World
+
+* ### Mini Shell
+  Project in ECE511, C++
+
+* ### Web Proxy
+  Project in CS356: Network Architecture

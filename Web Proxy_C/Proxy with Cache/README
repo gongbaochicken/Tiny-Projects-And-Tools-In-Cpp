@@ -1,0 +1,12 @@
+#Web Proxy
+
+This is a simplified project about designing a web proxy in C++. I wrote this code is to apply the skills I learned from lectures. This project is devided into 2 parts. The first part is a proxy without cache, while the second part adds cache and other functions.
+
+###Part 1. Web Proxy without Cache
+This is an individual project. 
+
+
+###Part 2. Web Proxy with Cache
+This is a project that I cooperated with Wenquan Xing, who was a Duke fellow student and is a software developer in Amazon now.
+
+
