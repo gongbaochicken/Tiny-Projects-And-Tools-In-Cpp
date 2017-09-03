@@ -1,9 +1,9 @@
 # Small projects and tools in C++
   
-* Chord, Projects in 
+* ### Chord 
   Project in CS512: Distributed System
  
-* ECC Code
+* ### ECC Code
   Project in Algorithm in Real World
 
 * ### Mini Shell
