@@ -1,13 +1,15 @@
-# Small projects and tools in C++
-  
-* ### Chord 
-  Project in CS512: Distributed System
+# :scream_cat: Tiny projects and tools in C++
+
+This is a small collection of C++ projects during my school. Those projects now seems very simple, but I like to share them if there is any possibility to help anyone.
+
+### :snowflake: Chord 
+ Project in Duke CS512: Distributed System
  
-* ### ECC Code
-  Project in Algorithm in Real World
+### :zap: ECC Code
+ Project in Duke CS class: Algorithm in Real World
 
-* ### Mini Shell
-  Project in ECE511, C++
+### :computer: Mini Shell
+ Project in Duke ECE511, C++
 
-* ### Web Proxy
-  Project in CS356: Network Architecture
+### :curly_loop: Web Proxy
+ Project in CS356: Network Architecture
